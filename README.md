@@ -8,6 +8,6 @@ One can choose it and till the number is not hit by the any one player the score
 Once the score is reached by one of the player it will show the winner in green color and loser in red color. <br />
 There is reset button which will help in reseting the scores.<br/>
 <b>The technologies used are: Html,javascript and bulma.</b><br/>
-<img src=""><br/>
-<img src=""><br/>
+<img src="snap1.png"><br/>
+<img src="snap2.png"><br/>
 </p>
